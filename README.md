@@ -9,5 +9,5 @@ Reusable demonstrations built with .NET (LTS)
 
 ## Repositories
 
-- customer-support-assistant
-- quotation-knowledge-assistant
+- customer-support-assistant: https://github.com/HeckelRobert/customer-support-assistant
+- quotation-knowledge-assistant: https://github.com/HeckelRobert/quotation-knowledge-assistant
